@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  background-color: lightgray;
+}
+.container {
+  text-align: center;
+  padding-top: 100px;
+}
+h1{
+  margin-bottom: 20px;
+}
+.cityname{
+  height: 30px;
+  
+}
+.btn{
+  height: 30px;
+}
+.locBtn {
+  border: none;
+
+}
+img{
+  object-fit: contain;
+}
